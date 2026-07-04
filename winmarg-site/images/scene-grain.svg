@@ -1,0 +1,44 @@
+<svg viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="bgC" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FBF6EA"/>
+      <stop offset="100%" stop-color="#E7C878"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="400" fill="url(#bgC)"/>
+  <path d="M0 260 Q300 220 600 270 V400 H0 Z" fill="#C79A3E" opacity="0.35"/>
+  <g stroke="#8B6A26" stroke-width="4" stroke-linecap="round">
+    <line x1="120" y1="380" x2="130" y2="230"/>
+    <line x1="180" y1="380" x2="195" y2="210"/>
+    <line x1="250" y1="380" x2="260" y2="225"/>
+    <line x1="330" y1="380" x2="320" y2="205"/>
+    <line x1="400" y1="380" x2="410" y2="230"/>
+    <line x1="470" y1="380" x2="460" y2="215"/>
+  </g>
+  <g fill="#C79A3E">
+    <ellipse cx="130" cy="220" rx="9" ry="18"/>
+    <ellipse cx="118" cy="235" rx="9" ry="18" transform="rotate(-18 118 235)"/>
+    <ellipse cx="142" cy="235" rx="9" ry="18" transform="rotate(18 142 235)"/>
+
+    <ellipse cx="195" cy="200" rx="9" ry="18"/>
+    <ellipse cx="183" cy="215" rx="9" ry="18" transform="rotate(-18 183 215)"/>
+    <ellipse cx="207" cy="215" rx="9" ry="18" transform="rotate(18 207 215)"/>
+
+    <ellipse cx="260" cy="215" rx="9" ry="18"/>
+    <ellipse cx="248" cy="230" rx="9" ry="18" transform="rotate(-18 248 230)"/>
+    <ellipse cx="272" cy="230" rx="9" ry="18" transform="rotate(18 272 230)"/>
+
+    <ellipse cx="320" cy="195" rx="9" ry="18"/>
+    <ellipse cx="308" cy="210" rx="9" ry="18" transform="rotate(-18 308 210)"/>
+    <ellipse cx="332" cy="210" rx="9" ry="18" transform="rotate(18 332 210)"/>
+
+    <ellipse cx="410" cy="220" rx="9" ry="18"/>
+    <ellipse cx="398" cy="235" rx="9" ry="18" transform="rotate(-18 398 235)"/>
+    <ellipse cx="422" cy="235" rx="9" ry="18" transform="rotate(18 422 235)"/>
+
+    <ellipse cx="460" cy="205" rx="9" ry="18"/>
+    <ellipse cx="448" cy="220" rx="9" ry="18" transform="rotate(-18 448 220)"/>
+    <ellipse cx="472" cy="220" rx="9" ry="18" transform="rotate(18 472 220)"/>
+  </g>
+  <path d="M0 340 Q300 300 600 345 V400 H0 Z" fill="#1E4F33"/>
+</svg>

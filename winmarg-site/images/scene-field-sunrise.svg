@@ -1,0 +1,32 @@
+<svg viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="skyA" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#F4E7B8"/>
+      <stop offset="55%" stop-color="#CFE6A8"/>
+      <stop offset="100%" stop-color="#6FA860"/>
+    </linearGradient>
+    <linearGradient id="rowA" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#4F8A45"/>
+      <stop offset="100%" stop-color="#1E4F33"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="400" fill="url(#skyA)"/>
+  <circle cx="470" cy="90" r="52" fill="#E7C878"/>
+  <circle cx="470" cy="90" r="80" fill="#E7C878" opacity="0.25"/>
+  <path d="M0 230 Q150 200 300 230 T600 230 V400 H0 Z" fill="#3E7A3E"/>
+  <path d="M0 260 Q150 235 300 262 T600 258 V400 H0 Z" fill="url(#rowA)"/>
+  <g opacity="0.9">
+    <path d="M60 400 V300 Q60 280 70 260" stroke="#F2EAD6" stroke-width="4" fill="none" opacity="0"/>
+  </g>
+  <g stroke="#F2EAD6" stroke-width="3" opacity="0.35">
+    <path d="M0 300 Q150 275 300 300 T600 296"/>
+    <path d="M0 335 Q150 312 300 336 T600 332"/>
+  </g>
+  <g fill="#2E5E2A">
+    <ellipse cx="90" cy="270" rx="10" ry="18"/>
+    <ellipse cx="190" cy="255" rx="10" ry="18"/>
+    <ellipse cx="300" cy="268" rx="10" ry="18"/>
+    <ellipse cx="410" cy="252" rx="10" ry="18"/>
+    <ellipse cx="520" cy="266" rx="10" ry="18"/>
+  </g>
+</svg>

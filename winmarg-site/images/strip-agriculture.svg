@@ -1,0 +1,17 @@
+<svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice">
+  <rect width="1200" height="300" fill="none"/>
+  <g stroke="#FBF6EA" stroke-width="3" fill="none">
+    <path d="M-50 250 Q150 200 350 250 T750 250 T1150 250"/>
+    <path d="M-50 200 Q150 155 350 200 T750 200 T1150 200"/>
+    <path d="M-50 150 Q150 110 350 150 T750 150 T1150 150"/>
+  </g>
+  <g fill="#E7C878">
+    <ellipse cx="120" cy="70" rx="8" ry="16"/>
+    <ellipse cx="260" cy="60" rx="8" ry="16"/>
+    <ellipse cx="420" cy="75" rx="8" ry="16"/>
+    <ellipse cx="600" cy="55" rx="8" ry="16"/>
+    <ellipse cx="780" cy="72" rx="8" ry="16"/>
+    <ellipse cx="950" cy="58" rx="8" ry="16"/>
+    <ellipse cx="1100" cy="74" rx="8" ry="16"/>
+  </g>
+</svg>

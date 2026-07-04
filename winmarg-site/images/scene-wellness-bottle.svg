@@ -1,0 +1,24 @@
+<svg viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="bgE" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FBF6EA"/>
+      <stop offset="100%" stop-color="#D9ECC9"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="400" fill="url(#bgE)"/>
+  <circle cx="470" cy="90" r="70" fill="#E7C878" opacity="0.3"/>
+  <g transform="translate(255,90)">
+    <rect x="20" y="0" width="50" height="24" rx="6" fill="#1E4F33"/>
+    <rect x="27" y="-14" width="36" height="18" rx="6" fill="#5FA857"/>
+    <path d="M10 24 Q0 60 10 240 Q45 262 80 240 Q90 60 80 24 Z" fill="#FFFFFF" stroke="#1E4F33" stroke-width="4"/>
+    <path d="M18 90 Q45 80 72 90 L72 200 Q45 214 18 200 Z" fill="#5FA857" opacity="0.85"/>
+    <rect x="10" y="120" width="70" height="46" fill="#FBF6EA" opacity="0.9"/>
+    <text x="45" y="145" font-family="Manrope, sans-serif" font-size="10" font-weight="700" fill="#1E4F33" text-anchor="middle">WELLNESS</text>
+    <text x="45" y="158" font-family="Manrope, sans-serif" font-size="8" fill="#5B6455" text-anchor="middle">NUTRITION</text>
+  </g>
+  <g fill="#3E7A3E">
+    <path d="M150 260 C130 240 130 205 155 190 C165 220 165 245 150 260 Z"/>
+    <path d="M420 250 C445 232 448 198 425 182 C412 212 410 236 420 250 Z"/>
+  </g>
+  <ellipse cx="300" cy="340" rx="200" ry="22" fill="#1E4F33" opacity="0.08"/>
+</svg>
